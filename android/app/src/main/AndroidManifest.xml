@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.previsao_do_tempo">
    <application
-        android:label="previsao_do_tempo"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Previsão do tempo"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

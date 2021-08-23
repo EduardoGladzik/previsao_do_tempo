@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:previsao_do_tempo/screens/home/home.dart';
-import 'package:previsao_do_tempo/style.dart';
+import 'package:previsao_do_tempo/style.dart'; 
 
 void main() {
   runApp(
